@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=Laravel)
 ![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
-![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%232c3e50?style=for-the-badge&logo=Microsoft_SQL_Server)
+![SQL Server](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%232c3e50?style=for-the-badge&logo=microsoft-sql-server)
 ![React.Js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
 ![Node.Js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 ![Express.Js](https://img.shields.io/badge/-Express.Js-%232c3e50?style=for-the-badge&logo=express)

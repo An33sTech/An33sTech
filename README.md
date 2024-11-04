@@ -37,6 +37,7 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-%232c3e50?style=for-the-badge&logo=MongoDB)
 ![Xampp](https://img.shields.io/badge/-xampp-%232c3e50?style=for-the-badge&logo=xampp)
 ![Git](https://img.shields.io/badge/-git-%232c3e50?style=for-the-badge&logo=git)
+![cPanel](https://img.shields.io/badge/-cPanel-%232c3e50?style=for-the-badge&logo=cPanel)
 
 
 ### 🌟 Fun Fact

@@ -27,6 +27,7 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 ![CSS](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
+![Ajax](https://img.shields.io/badge/-Ajax-%232c3e50?style=for-the-badge&logo=Ajax)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=Laravel)

@@ -16,9 +16,9 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 ### 📫 Let's Connect!
 <p align="left">
 <a href="mailto:anistech.dev@gmail.com"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Muhammad Anis" height="30" width="40"></a>
-<a href="https://www.linkedin.com/in/muhammad-anis-858339177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Muhammad Anis" height="30" width="40"></a>
-<a href="https://www.facebook.com/profile.php?id=100050544793923&mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muhammad Anis" height="30" width="40" /></a>
-<a href="https://www.instagram.com/m_anis.pro/profilecard/?igsh=czB5N2V5MGlzdTZl" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muhammad Anis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-anis-858339177?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Anis" height="30" width="40"></a>
+<a href="https://www.facebook.com/profile.php?id=100050544793923&mibextid=ZbWKwL"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Muhammad Anis" height="30" width="40"></a>
+<a href="https://www.instagram.com/m_anis.pro/profilecard/?igsh=czB5N2V5MGlzdTZl"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Muhammad Anis" height="30" width="40"></a>
 </p>
 
 ---

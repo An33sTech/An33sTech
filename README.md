@@ -22,7 +22,7 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 
 ---
 
-### 📫 Languages and Tools:
+### 📫 Languages, Frameworks and Tools:
 ![HTML](https://img.shields.io/badge/-HTML5-%232c3e50?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
@@ -35,6 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 ![Node.Js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 ![Express.Js](https://img.shields.io/badge/-Express.Js-%232c3e50?style=for-the-badge&logo=express)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-%232c3e50?style=for-the-badge&logo=MongoDB)
+![Xampp](https://img.shields.io/badge/-xampp-%232c3e50?style=for-the-badge&logo=xampp)
 
 
 ### 🌟 Fun Fact

@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 
 ### 🚀 About Me
 - 💼 Currently working as a **Senior PHP Developer** at a software house, where I guide and mentor junior developers.
-- 💻 Skilled in **PHP, Laravel, MySQL, JavaScript, HTML, CSS**, and **React.js**.
+- 💻 Skilled in **PHP, Laravel, MySQL, JavaScript, HTML, CSS**, and **Node.js**.
 - 🎯 Focused on **scalable backend architecture**, **database optimization**, and creating efficient, maintainable codebases.
 - 🌍 Based in **Asia/Karachi** timezone.
 
@@ -27,7 +27,6 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 ![CSS](https://img.shields.io/badge/-CSS3-%232c3e50?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
-![Ajax](https://img.shields.io/badge/-Ajax-%232c3e50?style=for-the-badge&logo=Ajax)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
 ![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 ![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=Laravel)
@@ -43,5 +42,3 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 
 ### 🌟 Fun Fact
 I'm an introvert who prefers working behind the scenes to create amazing solutions and, when possible, avoid phone calls in favor of written communication. 😊
-
-Thanks for visiting my profile, and feel free to explore my repositories or reach out if you'd like to collaborate!

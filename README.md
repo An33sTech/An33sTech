@@ -28,12 +28,14 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%232c3e50?style=for-the-badge&logo=javascript)
 ![jQuery](https://img.shields.io/badge/-jQuery-%232c3e50?style=for-the-badge&logo=jQuery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%232c3e50?style=for-the-badge&logo=Bootstrap)
+![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
+![Laravel](https://img.shields.io/badge/-Laravel-%232c3e50?style=for-the-badge&logo=Laravel)
+![MySQL](https://img.shields.io/badge/-MySQL-%232c3e50?style=for-the-badge&logo=MySQL)
 ![React.Js](https://img.shields.io/badge/-React.js-%232c3e50?style=for-the-badge&logo=react)
-![Ant Design](https://img.shields.io/badge/-Antd-%232c3e50?style=for-the-badge&logo=ant-design)
 ![Node.Js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 ![Express.Js](https://img.shields.io/badge/-Express.Js-%232c3e50?style=for-the-badge&logo=express)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-%232c3e50?style=for-the-badge&logo=MongoDB)
-![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
+
 
 ### 🌟 Fun Fact
 I'm an introvert who prefers working behind the scenes to create amazing solutions and, when possible, avoid phone calls in favor of written communication. 😊

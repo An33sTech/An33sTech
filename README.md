@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a stron
 ![Node.Js](https://img.shields.io/badge/-Node.js-%232c3e50?style=for-the-badge&logo=nodedotjs)
 ![Express.Js](https://img.shields.io/badge/-Express.Js-%232c3e50?style=for-the-badge&logo=express)
 ![Mongo DB](https://img.shields.io/badge/-Mongo%20DB-%232c3e50?style=for-the-badge&logo=MongoDB)
-![React Native](https://img.shields.io/badge/-React%20Native-%232c3e50?style=for-the-badge&logo=react)
+![PHP](https://img.shields.io/badge/-PHP-%232c3e50?style=for-the-badge&logo=PHP)
 
 ### 🌟 Fun Fact
 I'm an introvert who prefers working behind the scenes to create amazing solutions and, when possible, avoid phone calls in favor of written communication. 😊

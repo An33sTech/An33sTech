@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Muhammad Anis!
 
-Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a strong command of Laravel, React.js, and Object-Oriented Programming. My journey in software development has led me to specialize in building robust web applications, guiding and mentoring junior developers, and constantly exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate Senior PHP Developer with a strong command of Laravel and Object-Oriented Programming. My journey in software development has led me to specialize in building robust web applications, guiding and mentoring junior developers, and constantly exploring new technologies.
 
 ---
 
